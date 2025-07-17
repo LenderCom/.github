@@ -1,9 +1,3 @@
-# Test PR template
-
-## 📌 Summary
-
-<!-- A short explanation of what this PR does and why it's needed. -->
-
 ## 🖼️ Screenshots / UI Changes
 
 <!-- Add before/after screenshots or screen recordings if the PR affects the UI. -->
