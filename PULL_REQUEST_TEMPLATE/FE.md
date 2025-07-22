@@ -1,3 +1,6 @@
+<!-- Links to corresponding or cloned PRs, optional. -->
+## Linked PRs: 
+
 ## 🖼️ Screenshots / UI Changes
 
 <!-- Add before/after screenshots or screen recordings if the PR affects the UI. -->
@@ -5,6 +8,10 @@
 | Before | After |
 |--------|-------|
 | (screenshot) | (screenshot) |
+
+<!-- OR keep: -->
+
+### No UI changes
 
 ## 🧪 Test Plan
 
@@ -17,9 +24,9 @@
 ## 📋 Checklist
 
 - [ ] Code builds without errors
+- [ ] No console warnings or errors
 - [ ] All tests passing
 - [ ] Linting and formatting passed
-- [ ] No console warnings or errors
 
 ## 📣 Notes for Reviewers
 
